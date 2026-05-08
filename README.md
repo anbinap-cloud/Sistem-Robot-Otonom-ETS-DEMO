@@ -1,2 +1,21 @@
-# Sistem-Robot-Otonom-ETS-DEMO
-Menggunakan 3 robot dengan 1 role pada masing-masing robot:  Role 1: Penjaga gawang (pilih 1 gawang) Role 2: Penendang bola Role 3: Partisipator, minimal bergerak random/script default dari CoppeliaSim, atau kreasi sendiri
+# Pioneer P3DX Soccer Game
+
+- **Date**: 22 April 2026
+- **Description**: 
+  - Using 3 robots to play soccer. Each robot has one role.
+    - Role 1: Goalkeeper (choose one goal).
+    - Role 2: Striker.
+    - Role 3: Participator, at least can move randomly.
+  - Balls, robots, goals, and all objects data can be retrieved using API.
+  - Adding object for kicking mechanism is allowed.
+
+## Overview
+
+### Video
+
+
+
+https://github.com/user-attachments/assets/5d16a25c-1f61-4666-847d-704da46bf39b
+
+
+
